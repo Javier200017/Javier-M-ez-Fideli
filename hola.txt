@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Ey que tal grupN LUIS
 HOL
+=======
+Ey que tal grupo??
+BIEN LUIS
+.jsss
+>>>>>>> 606bf7bac630097450526b9c798129688434add9
